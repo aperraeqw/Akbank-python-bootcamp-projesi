@@ -1,7 +1,6 @@
 import time
 class kutuphane:
-    def __init__(self,kitapadi,kitapyazari,basimyili,sayfasayisi):
-        self.kitapadi= kitapadi
+    def __init__(self,kitapadi,kitapyazari,basimyili,sayfasayisi)
         self.kitapyazari = kitapyazari
         self.basimyili = basimyili
         self.sayfasayisi = sayfasayisi
